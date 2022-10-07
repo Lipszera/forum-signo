@@ -102,4 +102,4 @@ echo "Signo: {$signNode->signoNome} <br>";
 echo "Data Início: {$signNode->dataInicio} <br>";
 echo "Data Fim: {$signNode->dataFim} <br>";
 echo "Descrição: {$signNode->descricao} <br>";
-echo "Imagem: <br> <img src='{$signNode->imagem}' width=100 height=100> <br>";
+echo "Símbolo: <br> <img src='{$signNode->imagem}' width=400 height=400> <br>";
