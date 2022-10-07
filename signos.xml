@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>
+            Os aquarianos são amantes dos desafios e da liberdade! 
+            Características positivas dos aquarianos: idealista e inventivo, o aquariano costuma ser tranquilo e justo, 
+            ao mesmo tempo que gosta de transformar e não se acomodar nas situações.
+            Características negativas dos aquarianos: por ser individualista e desapegado, 
+            muitos consideram o aquariano frio e sem coração (rs), além de distante, rebelde e imprevisível.
+            O signo de Aquário talvez seja o signo mais individualista do zodíaco.
+        </descricao>
+        <imagem>images/aquario.jpg</imagem>
+        
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+        <imagem>images/peixes.jpg</imagem>
+    </signo>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+        <imagem>images/aries.jpg</imagem>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+        <imagem>images/touro.jpg</imagem>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+        <imagem>images/gemeos.jpg</imagem>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+        <imagem>images/cancer.jpg</imagem>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+        <imagem>images/leao.jpg</imagem>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+        <imagem>images/virgem.jpg</imagem>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+        <imagem>images/libra.jpeg</imagem>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+        <imagem>images/escorpiao.jpg</imagem>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+        <imagem>images/sagitario.jpg</imagem>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+        <imagem>images/capricornio.jpg</imagem>
+    </signo>
+</signos>
